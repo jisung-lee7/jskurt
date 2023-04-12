@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I'm Jisung Lee
+- 🌱 I’m currently learning React.js
+- 📫 You can reach me jskurt9352@gmail.com
+
 
 <!--
 **jskurt/jskurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
