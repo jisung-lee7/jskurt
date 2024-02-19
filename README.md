@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Jisung Lee
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js, TypeScript, Next.js, tailwindCSS.
 - 📫 You can reach me jskurt9352@gmail.com
 
 
