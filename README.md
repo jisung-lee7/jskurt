@@ -1,7 +1,8 @@
 - 👋 Hi, I'm Jisung Lee
 - 🌱 I’m currently learning React.js, TypeScript, Next.js, tailwindCSS.
 - 📫 You can reach me jskurt9352@gmail.com
-
+  Side project source code:
+  1. Github pull request bulk reviews - https://github.com/coding-for-fun-org/frontend
 
 <!--
 **jskurt/jskurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
