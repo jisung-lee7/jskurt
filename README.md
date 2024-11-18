@@ -10,6 +10,10 @@
    - You can leave the same comments in a few clicks without opening an individual pull request and reviewing it. It's really useful when you are merging dependabot pull requests.
    - Here is the link - https://coding-for-fun.com/github/t/pulls
 
+### Note
+- [Note](./Broad-shallow-programming.md)
+
+
 <!--
 **jskurt/jskurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
